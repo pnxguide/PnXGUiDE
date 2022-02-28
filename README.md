@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Yuttapichai Kerdcharoen! (@pnxguide)
+- 👋  Hi, I’m Guide (Yuttapichai Kerdcharoen)! (@pnxguide)
 - 👀  I’m working on graph database system performance
 - 🌱  I’m currently doing Ph.D. in Electrical and Computer Engineering at Carnegie Mellon University - CMKL
 - 📫  You can reach me via email yuttapichai.ke@gmail.com
