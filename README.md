@@ -1,5 +1,5 @@
 <div align="center">
-  ![GitHub Logo](/logo.png)
+  <img src="/logo-og.png" width="128px" />
   <br>
   <strong>Welcome! I’m Guide (Yuttapichai Kerdcharoen)! (<a href="">@pnxguide</a>)</strong>
 </div>
