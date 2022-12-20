@@ -1,5 +1,6 @@
 <div align="center">
-  <h3>🍀</h3>
+  ![GitHub Logo](/logo.png)
+  <br>
   <strong>Welcome! I’m Guide (Yuttapichai Kerdcharoen)! (<a href="">@pnxguide</a>)</strong>
 </div>
 
