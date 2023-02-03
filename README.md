@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/logo-og.png" width="128px" />
   <br>
-  <strong>Welcome! I’m Guide (Yuttapichai Kerdcharoen)! (<a href="">@pnxguide</a>)</strong>
+  <strong>Welcome! My name is Guide (Yuttapichai Kerdcharoen)! (<a href="">@pnxguide</a>)</strong>
   <br>
   <a href="https://pnx.guide">pnx.guide</a>
 </div>
