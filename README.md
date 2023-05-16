@@ -11,7 +11,7 @@
 <div align="center">
   I’m currently doing Ph.D. in Electrical and Computer Engineering at Carnegie Mellon University - CMKL
   <br>
-  I’m working on performance for graph algorithms and systems
+  I’m working on HPC for graph database systems
   <br>
   You can reach me via email <a href="mailto:yuttapichai.ke@gmail.com">yuttapichai.ke@gmail.com</a>
   <br><br>
