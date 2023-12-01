@@ -9,9 +9,9 @@
 ---
 
 <div align="center">
-  I’m currently doing Ph.D. in Electrical and Computer Engineering at Carnegie Mellon University - CMKL
+  I’m currently doing Ph.D. in Electrical and Computer Engineering at Carnegie Mellon University and CMKL University
   <br>
-  I’m working on HPC for graph database systems
+  I’m working on high-performance graph database systems
   <br>
   You can reach me via email <a href="mailto:yuttapichai.ke@gmail.com">yuttapichai.ke@gmail.com</a>
   <br><br>
