@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/logo-og.png" width="128px" />
   <br>
-  <strong>Welcome! My name is Guide (Yuttapichai Kerdcharoen)! (<a href="">@pnxguide</a>)</strong>
+  <strong>Hi, my name is Guide (Yuttapichai Kerdcharoen)! (<a href="">@pnxguide</a>)</strong>
   <br>
   <a href="https://pnx.guide">pnx.guide</a>
 </div>
@@ -11,7 +11,7 @@
 <div align="center">
   I’m currently doing Ph.D. in Electrical and Computer Engineering at Carnegie Mellon University and CMKL University
   <br>
-  I’m working on high-performance graph database systems
+  I’m working on high-performance computing and database systems
   <br>
   You can reach me via email <a href="mailto:yuttapichai.ke@gmail.com">yuttapichai.ke@gmail.com</a>
   <br><br>
